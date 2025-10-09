@@ -1,0 +1,4 @@
+# prompts-for-content-creation
+
+https://docs.google.com/spreadsheets/d/1SLgzqgxIa-4V2JYjQwZH6_4ZsBs26GV4XfEWXE5eVxI/edit?gid=0#gid=0
+
