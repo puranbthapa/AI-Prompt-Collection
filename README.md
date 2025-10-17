@@ -1,144 +1,425 @@
-# 🚀 Ultimate AI Prompt Collection
+# **System Prompts and Models of AI Tools** 🤖
 
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-[![Prompts](https://img.shields.io/badge/Prompts-37%2B-blue)](.)
-[![Markdown](https://img.shields.io/badge/Format-Markdown-brightgreen)](.)
+> The most comprehensive open-source collection of AI coding assistant system prompts, tool definitions, and behavioral configurations
 
-A comprehensive, professionally curated collection of high-quality AI prompts for ChatGPT, Claude, Gemini, and other generative AI tools. Designed to boost productivity, creativity, strategy, and problem-solving across business and personal applications.
+[![GitHub stars](https://img.shields.io/github/stars/username/repo?style=social)](https://github.com/username/repo)
+[![License](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
+[![Last Updated](https://img.shields.io/badge/Last%20Updated-October%202025-green.svg)](.)
 
-## ✨ What's New
+## 📊 **Repository Statistics**
 
-- **🎯 Fully Organized**: All prompts converted to clean Markdown format
-- **📚 Comprehensive Index**: Easy navigation with categorized prompt library
-- **🔧 Ready to Use**: Copy-paste prompts with clear instructions
-- **📋 Professional Structure**: Consistent formatting and documentation
-- **🎨 Enhanced Readability**: Proper headers, sections, and formatting
-
-## 🎯 Quick Start
-
-1. **Browse**: Check the [📖 Complete Index](INDEX.md) to explore all available prompts
-2. **Choose**: Select a prompt that matches your needs
-3. **Customize**: Replace bracketed placeholders with your specific details
-4. **Execute**: Copy and paste into your preferred AI tool
-5. **Iterate**: Refine and adapt based on results
-
-## 📊 Collection Overview
-
-| Category | Count | Description |
-|----------|-------|-------------|
-| 🎨 **Image Generation** | 11 | Creative visual prompts for AI art tools |
-| 📈 **Marketing & Sales** | 8 | Business growth and marketing strategies |
-| 💼 **Business Strategy** | 7 | Strategic planning and competitive analysis |
-| 📝 **Content Creation** | 3 | Content ideation and writing frameworks |
-| 📊 **Analysis & Research** | 3 | Data analysis and market research |
-| 🎓 **Learning & Development** | 2 | Educational and skill-building prompts |
-| 👶 **Personal & Lifestyle** | 2 | Health, wellness, and personal guidance |
-| 🎬 **Video & Media** | 1 | Video creation and multimedia |
-
-**Total**: 37+ Professional AI Prompts
-
-## 🏆 Featured Prompts
-
-### 🎯 Business & Strategy
-- **[Personal Board of Directors](personal-board-of-directors-prompt.md)** - Get advice from industry legends
-- **[Go-To-Market Strategist](go-to-market-strategist.md)** - Comprehensive competitive analysis
-- **[David Ogilvy Copywriting Grader](david-ogilvy-copywriting-grader.md)** - Professional copy analysis
-
-### 🎨 Creative & Visual
-- **[Action Figure Creator](image-prompt-action-figure.md)** - Turn yourself into a collectible toy
-- **[90s Cartoon Character](image-prompt_-90s-style-saturday-morning-cartoon-character.md)** - Nostalgic character design
-- **[Magazine Cover Generator](image-prompt---rich-vision-magazine-cover-prompt-forbes-rich-list.md)** - Forbes-style covers
-
-### 📈 Marketing & Growth
-- **[Lead Generation System](lead-generation-personalized-outreach-prompt.md)** - Automated prospect research
-- **[Endless Content Ideas](endless-content-ideas-prompt.md)** - Systematic content framework
-- **[Marketing Plan of the Future](create-marketing-plan-future.md)** - AI-powered marketing strategy
-
-## 🎯 How to Use This Collection
-
-### 1. **Find Your Prompt**
-- Browse the [Complete Index](INDEX.md) by category
-- Use Ctrl+F to search for specific topics
-- Check featured prompts above for popular options
-
-### 2. **Customize the Prompt**
-- Open the `.md` file for your chosen prompt
-- Replace all `[bracketed placeholders]` with your specific details
-- Review the "How to Use" section for guidance
-
-### 3. **Execute and Iterate**
-- Copy the customized prompt to your AI tool
-- Review the output and refine as needed
-- Save successful variations for future use
-
-## 📋 Prompt Categories
-
-### 💼 Business & Strategy
-Transform your business approach with professional-grade strategic prompts.
-
-- [Career Growth Planning](career-growth-prompt.md)
-- [Competitive Market Analysis](go-to-market-strategist.md)
-- [Advisory Board Simulation](personal-board-of-directors-prompt.md)
-- [Pricing Strategy Optimization](pricing-strategist-prompt.md)
-
-### 📈 Marketing & Sales
-Accelerate growth with data-driven marketing and sales frameworks.
-
-- [AI-Powered Marketing Strategy](create-marketing-plan-future.md)
-- [Copywriting Analysis](david-ogilvy-copywriting-grader.md)
-- [Lead Generation Automation](lead-generation-personalized-outreach-prompt.md)
-- [Content Strategy Framework](endless-content-ideas-prompt.md)
-
-### 🎨 Image Generation
-Create stunning visuals with detailed, professional image prompts.
-
-- [Custom Action Figures](image-prompt-action-figure.md)
-- [Personalized Bobbleheads](image-prompt-bobble-head.md)
-- [Trading Card Designs](image-prompt---turn-yourself-into-a-collectible-playing-card.md)
-- [Magazine Cover Art](image-prompt---rich-vision-magazine-cover-prompt-forbes-rich-list.md)
-
-### 📊 Analysis & Research
-Make data-driven decisions with comprehensive analysis frameworks.
-
-- [Professional Data Analysis](data-analyst.md)
-- [Market Research Methodology](market-research-analysis-prompt.md)
-- [Competitive Intelligence](market-research-prompt.md)
-
-## 🛠️ Technical Details
-
-- **Format**: Markdown (.md) for universal compatibility
-- **Organization**: Categorized with consistent naming conventions
-- **Documentation**: Each prompt includes usage instructions
-- **Compatibility**: Works with ChatGPT, Claude, Gemini, and other AI tools
-- **Maintenance**: Regularly updated with new prompts and improvements
-
-## 🤝 Contributing
-
-We welcome contributions to expand this collection! Here's how you can help:
-
-1. **Submit New Prompts**: Share your tested, high-quality prompts
-2. **Improve Existing Ones**: Suggest enhancements to current prompts
-3. **Report Issues**: Help us identify and fix any problems
-4. **Share Feedback**: Tell us how these prompts have helped you
-
-## 📄 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-## 🔗 Quick Links
-
-- **[📖 Complete Index](INDEX.md)** - Browse all prompts by category
-- **[🎯 Business Prompts](INDEX.md#-business-strategy)** - Strategic and professional prompts
-- **[🎨 Image Prompts](INDEX.md#-image-generation-prompts)** - Creative visual generation
-- **[📈 Marketing Prompts](INDEX.md#-marketing--sales)** - Growth and marketing focused
-
-## 📞 Support
-
-- **Issues**: Report problems via GitHub Issues
-- **Questions**: Check the documentation in each prompt file
-- **Updates**: Watch this repository for new prompt additions
+- **📁 32 AI Tools & Platforms** covered
+- **📄 97 Files** of documentation  
+- **📏 30,000+ Lines** of prompts and configurations
+- **💾 1.7 MB** total content size
+- **🔄 Regularly Updated** (Latest: October 17, 2025)
 
 ---
 
-**Made with ❤️ for the AI community**  
-*Last Updated: October 2025*
+## 🚀 **What's Inside**
+
+This repository contains the **system prompts, tool definitions, and behavioral configurations** that power the world's most advanced AI coding assistants. Whether you're researching AI prompt engineering, building your own AI tools, or just curious about how these systems work, this collection provides unprecedented insight into the architecture of modern AI assistants.
+
+### 🏢 **Commercial AI Coding Assistants**
+
+| Tool | Description | Files |
+|------|-------------|--------|
+| **Cursor** | Advanced AI pair programming | Agent prompts v1.0-v1.2, memory system, tools |
+| **GitHub Copilot** | Microsoft's AI code completion | VSCode integration, multiple model variants |
+| **Windsurf** | Codeium's agentic coding assistant | Wave 11 prompts & tool definitions |
+| **Claude Code** | Anthropic's official coding tool | System prompts & tool configurations |
+| **v0** | Vercel's React/Next.js generator | Complete prompt engineering system |
+| **Replit Agent** | Browser-based AI development | Full system architecture |
+| **Devin AI** | Autonomous software engineer | Core behavioral prompts |
+
+### 🌐 **Development Platforms & Services**
+
+- **Lovable** - AI-powered full-stack development
+- **Same.dev** - Collaborative AI coding
+- **Manus Agent** - Enterprise development tools  
+- **Augment Code** - Code enhancement platform
+- **Trae AI** - AI development workflows
+- **Notion AI** - Document-integrated coding
+- **Perplexity** - Research-augmented development
+
+### 🔓 **Open Source Projects**
+
+| Project | Type | Description |
+|---------|------|-------------|
+| **Cline** | VS Code Extension | Local AI assistant |
+| **Bolt** | Web Platform | Browser-based AI development |
+| **RooCode** | CLI Tool | Terminal AI assistant |
+| **Lumo** | Framework | AI coding framework |
+| **Codex CLI** | Command Line | OpenAI Codex integration |
+| **Gemini CLI** | Command Line | Google Gemini integration |
+
+### 🏢 **Enterprise & Specialized Tools**
+
+- **Xcode** (Apple's AI integration)
+- **Anthropic** (Claude 4 Sonnet configurations)
+- **Amp** (Multi-model orchestration)
+- **Orchids.app, Junie, Kiro, Warp.dev, Z.ai Code**
+
+---
+
+## � **Learning Topics & Course Structure**
+
+### **🎯 Topic 1: Fundamentals of AI Prompt Engineering**
+**Learning Objectives:** Understanding the basics of AI system prompts and instruction design
+- **Subtopics:**
+  - Introduction to System Prompts vs User Prompts
+  - Basic Instruction Formatting and Structure
+  - Content Policies and Safety Boundaries
+  - Model-Specific Prompt Adaptations
+- **Practical Examples:** Simple chat assistants, basic code completion
+- **Tools to Study:** NotionAI, Perplexity basic prompts
+
+### **🎯 Topic 2: Tool Integration & Function Calling**
+**Learning Objectives:** How AI assistants interact with external systems and APIs
+- **Subtopics:**
+  - Tool Schema Definition (JSON specifications)
+  - Function Call Orchestration
+  - Error Handling and Retry Mechanisms
+  - Parallel vs Sequential Tool Execution
+- **Practical Examples:** File operations, terminal commands, web searches
+- **Tools to Study:** Claude Code tools, v0 tool definitions, Replit integrations
+
+### **🎯 Topic 3: Agentic Behavior & Multi-Step Reasoning**
+**Learning Objectives:** Advanced AI systems that can plan and execute complex tasks
+- **Subtopics:**
+  - Planning vs Acting Mode Separation
+  - Task Decomposition and Subtask Management
+  - Memory Systems and Context Persistence
+  - Goal-Oriented Behavior Patterns
+- **Practical Examples:** Code refactoring, project setup, debugging workflows
+- **Tools to Study:** Cursor Agent prompts, Windsurf Wave 11, Cline architecture
+
+### **🎯 Topic 4: Code Generation & Modification Patterns**
+**Learning Objectives:** Specialized techniques for programming assistance
+- **Subtopics:**
+  - Code Context Understanding and Analysis
+  - Diff Generation and Patch Application
+  - Code Quality and Best Practices Integration
+  - Language-Specific Optimizations
+- **Practical Examples:** React component generation, debugging assistance
+- **Tools to Study:** v0 React generator, GitHub Copilot variants, Lovable systems
+
+### **🎯 Topic 5: User Experience & Interaction Design**
+**Learning Objectives:** Creating intuitive and helpful AI assistant interactions
+- **Subtopics:**
+  - Conversational Flow Design
+  - Progress Feedback and Status Updates
+  - Error Communication and Recovery
+  - Personalization and Adaptation
+- **Practical Examples:** IDE integrations, chat interfaces, command-line tools
+- **Tools to Study:** VSCode Agent, Xcode integration, Warp.dev CLI
+
+### **🎯 Topic 6: Enterprise & Production Considerations**
+**Learning Objectives:** Scaling AI assistants for real-world deployment
+- **Subtopics:**
+  - Security and Privacy Controls
+  - Performance Optimization and Rate Limiting
+  - Multi-Model Orchestration
+  - Monitoring and Analytics Integration
+- **Practical Examples:** Enterprise deployments, API management
+- **Tools to Study:** Anthropic enterprise configs, Amp multi-model, Manus Agent
+
+### **🎯 Topic 7: Open Source Implementation Strategies**
+**Learning Objectives:** Building and deploying community-driven AI tools
+- **Subtopics:**
+  - Local vs Cloud-Based Processing
+  - Extension and Plugin Architecture
+  - Community Contribution Patterns
+  - Licensing and Distribution Models
+- **Practical Examples:** VS Code extensions, CLI tools, web platforms
+- **Tools to Study:** Cline, Bolt, RooCode, Lumo frameworks
+
+### **🎯 Topic 8: Advanced Research & Future Directions**
+**Learning Objectives:** Cutting-edge developments and emerging patterns
+- **Subtopics:**
+  - Multi-Modal AI Integration (text, code, images)
+  - Autonomous Software Engineering
+  - AI-AI Collaboration Patterns
+  - Ethical AI and Responsible Development
+- **Practical Examples:** Advanced research prototypes, experimental features
+- **Tools to Study:** Devin AI, latest Anthropic research, emerging platforms
+
+---
+
+## �🔍 **Key Insights & Patterns**
+
+### **Prompt Engineering Evolution**
+Modern AI assistants have evolved far beyond simple instruction-following:
+- **Agentic Behavior**: Multi-step reasoning and autonomous task execution
+- **Tool Integration**: Sophisticated file system, terminal, and web operations
+- **Memory Systems**: Persistent context and learning capabilities
+- **Safety Boundaries**: Robust content policies and security measures
+
+### **Common Architecture Patterns**
+1. **Planning vs Acting Modes** - Separate reasoning and execution phases
+2. **Tool Orchestration** - Parallel and sequential tool usage patterns
+3. **Context Management** - Advanced chunking and memory strategies
+4. **Error Recovery** - Sophisticated retry and fallback mechanisms
+
+### **Model-Specific Adaptations**
+Different prompts optimized for:
+- **GPT-4/5 series** - OpenAI models
+- **Claude Sonnet-4** - Anthropic's latest
+- **Gemini Pro** - Google's flagship
+- **Custom Models** - Specialized implementations
+
+---
+
+## 🛠️ **How to Use This Repository**
+
+### **📖 For Students & Learners**
+Follow the structured learning path:
+```bash
+# Start with fundamentals
+1. Study basic prompts in NotionAI/ and Perplexity/
+2. Examine tool definitions in Claude Code/tools.json
+3. Analyze agentic behaviors in Cursor Prompts/
+4. Practice with open-source examples in Open Source prompts/
+```
+
+**Recommended Learning Sequence:**
+1. **Week 1-2**: Topics 1-2 (Fundamentals & Tool Integration)
+2. **Week 3-4**: Topics 3-4 (Agentic Behavior & Code Generation)
+3. **Week 5-6**: Topics 5-6 (UX Design & Enterprise)
+4. **Week 7-8**: Topics 7-8 (Open Source & Advanced Research)
+
+### **🔬 For AI Researchers**
+```bash
+# Analyze prompt engineering techniques
+grep -r "tool_use" ./*/
+grep -r "planning" ./*/
+grep -r "memory" ./*/
+grep -r "agentic" ./*/
+
+# Study evolution patterns
+find . -name "*.txt" -exec grep -l "version\|v1\|v2" {} \;
+```
+
+### **👩‍💻 For Developers Building AI Tools**
+**Progressive Implementation Guide:**
+1. **Basic Integration**: Start with simple tool definitions from Claude Code/
+2. **Enhanced UX**: Study conversational patterns in VSCode Agent/
+3. **Advanced Features**: Implement agentic behaviors from Windsurf/
+4. **Production Ready**: Apply enterprise patterns from Anthropic/
+
+**Code Analysis Commands:**
+```bash
+# Study tool schemas
+find . -name "tools.json" -exec cat {} \;
+
+# Analyze prompt structures  
+grep -r "system\|instruction\|role" ./ --include="*.txt"
+
+# Review safety measures
+grep -r "policy\|safety\|refuse" ./ --include="*.txt"
+```
+
+### **🏢 For Product Teams**
+**Competitive Analysis Framework:**
+- **Feature Comparison**: Map capabilities across platforms
+- **UX Pattern Analysis**: Study interaction designs
+- **Technical Architecture**: Compare implementation approaches
+- **Market Positioning**: Understand differentiation strategies
+
+**Assessment Tools:**
+- Use provided comparison matrices
+- Analyze user flow patterns
+- Benchmark performance characteristics
+
+---
+
+## 🧪 **Practical Exercises & Assessments**
+
+### **📝 Topic-Based Assignments**
+
+#### **Assignment 1: Basic Prompt Analysis (Topics 1-2)**
+- **Task**: Compare 3 different basic prompts and identify key patterns
+- **Files**: `NotionAi/Prompt.txt`, `Perplexity/Prompt.txt`, `Warp.dev/Prompt.txt`
+- **Deliverable**: Analysis report comparing instruction styles and safety measures
+- **Assessment**: Understanding of prompt structure fundamentals
+
+#### **Assignment 2: Tool Integration Study (Topics 2-3)**
+- **Task**: Create a comprehensive tool mapping across platforms
+- **Files**: All `tools.json` files in repository
+- **Deliverable**: Tool functionality matrix and integration patterns
+- **Assessment**: Technical comprehension of API design
+
+#### **Assignment 3: Agentic Behavior Implementation (Topics 3-4)**
+- **Task**: Design a multi-step coding assistant workflow
+- **Files**: `Cursor Prompts/Agent Prompt v1.2.txt`, `Windsurf/Prompt Wave 11.txt`
+- **Deliverable**: Pseudo-code implementation of agentic system
+- **Assessment**: Understanding of complex AI behaviors
+
+#### **Assignment 4: Enterprise Deployment Plan (Topics 5-6)**
+- **Task**: Create production deployment strategy
+- **Files**: `Anthropic/`, `Manus Agent Tools & Prompt/`
+- **Deliverable**: Technical architecture document
+- **Assessment**: Production-readiness considerations
+
+#### **Final Project: Custom AI Assistant Design (Topics 7-8)**
+- **Task**: Design and specify a novel AI coding assistant
+- **Resources**: Entire repository for reference
+- **Deliverable**: Complete system specification including prompts, tools, and UX
+- **Assessment**: Synthesis of all learning objectives
+
+### **🎯 Learning Outcomes Assessment**
+
+**Knowledge Check Questions:**
+1. What are the key differences between system and user prompts?
+2. How do modern AI assistants handle tool orchestration?
+3. What safety mechanisms are commonly implemented?
+4. How do different platforms approach agentic behavior?
+5. What are the enterprise considerations for AI assistant deployment?
+
+**Practical Skills Evaluation:**
+- ✅ Prompt engineering and optimization
+- ✅ Tool schema design and implementation  
+- ✅ Safety and content policy development
+- ✅ User experience design for AI interactions
+- ✅ Technical architecture planning
+
+### **🏆 Certification Criteria**
+
+**Basic Level (Topics 1-4):**
+- Complete 2 assignments with 80%+ accuracy
+- Demonstrate understanding of core concepts
+- Pass knowledge check questions
+
+**Advanced Level (Topics 5-8):**
+- Complete all assignments including final project
+- Show innovation in AI assistant design
+- Demonstrate enterprise-level thinking
+
+**Expert Level (Research Track):**
+- Contribute new insights or patterns
+- Publish analysis of emerging trends
+- Mentor other learners in the community
+
+---
+
+## 📚 **Documentation Structure**
+
+```
+├── Commercial Tools/
+│   ├── Cursor Prompts/           # Advanced pair programming
+│   ├── VSCode Agent/             # GitHub Copilot variants  
+│   ├── Windsurf/                 # Latest agentic prompts
+│   ├── Claude Code/              # Anthropic's system
+│   └── v0 Prompts and Tools/     # Vercel's generator
+├── Open Source/
+│   ├── Cline/                    # VS Code extension
+│   ├── Bolt/                     # Web platform
+│   └── [Others]/                 # Various OSS tools
+├── Enterprise/
+│   ├── Anthropic/                # Advanced Claude configs
+│   ├── Xcode/                    # Apple integration
+│   └── [Specialized]/            # Domain-specific tools
+└── Documentation/
+    ├── README.md                 # This file
+    └── [Analysis Files]/         # Research insights
+```
+
+---
+
+## 🔬 **Research Applications**
+
+### **Academic Research**
+- **Prompt Engineering Studies** - Evolution of AI instruction methods
+- **Human-AI Interaction** - UX patterns in coding assistants  
+- **AI Safety Research** - Content policy and boundary analysis
+- **Tool Use Studies** - Multi-modal AI capability research
+
+### **Industry Applications**
+- **Competitive Intelligence** - Feature and capability analysis
+- **Product Development** - Best practice identification
+- **Risk Assessment** - Security and safety pattern analysis
+- **Training Data** - Prompt engineering examples
+
+---
+
+## 🛡️ **Security & Ethics**
+
+### **Responsible Use**
+- **Research Only**: This collection is for educational and research purposes
+- **No Malicious Use**: Do not use for creating harmful AI systems
+- **Attribution**: Credit original creators when building upon this work
+- **Privacy Respect**: No personal data or credentials included
+
+### **Content Policies**
+All included prompts maintain:
+- ✅ Content safety boundaries
+- ✅ Copyright compliance  
+- ✅ Security best practices
+- ✅ Ethical AI guidelines
+
+---
+
+## 📈 **Recent Updates**
+
+### **October 2025**
+- ✨ Added Windsurf Wave 11 prompts
+- 🔄 Updated Cursor v1.2 configurations  
+- 📊 Enhanced VSCode Agent variants
+- 🆕 New open-source tool additions
+
+### **Contributing**
+We welcome contributions! Please:
+1. **Verify Authenticity** - Ensure prompts are from official sources
+2. **Maintain Quality** - Include proper documentation
+3. **Respect Licenses** - Follow original terms of use
+4. **Update Index** - Add new tools to this README
+
+---
+
+## 🌟 **Star History**
+
+⭐ **Star this repository** to stay updated with the latest AI assistant developments!
+
+---
+
+## 📞 **Connect & Support**
+
+- 🐛 **Issues**: [Report problems or suggest improvements](issues)
+- 💬 **Discussions**: [Join the community conversation](discussions)  
+- 🔄 **Updates**: Watch this repo for the latest additions
+- 🎯 **Requests**: Suggest new AI tools to document
+
+---
+
+## 📜 **License**
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
+**Note**: Individual prompts and configurations may have their own licenses. Please respect the original creators' terms.
+
+---
+
+## 👨‍💻 Course Developer & Credits
+
+**Powered by:** Puran Bahadur Thapa  
+**Website:** https://eastlink.com.np  
+**WhatsApp:** +9779801901140  
+
+*For technical support, web development consulting, or custom PHP training programs, feel free to reach out through the contact information above. Professional development services and advanced training modules available.*
+
+---
+
+**Course Version:** 1.0.0  
+**Last Updated:** October 2025  
+**Developed by:** Puran Bahadur Thapa  
+**Maintained by:** Computer Science Department  
+
+---
+
+<div align="center">
+
+**Built with ❤️ for the AI research community**
+
+[⬆ Back to Top](#system-prompts-and-models-of-ai-tools-)
+
+</div>
